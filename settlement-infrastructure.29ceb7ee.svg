@@ -1,0 +1,17 @@
+<svg width="262" height="132" viewBox="0 0 262 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M187 5H220C220.552 5 221 5.44772 221 6V42H187V5ZM186 42V5H152V42H186ZM152 43H186V91H152V43ZM151 42V5H112V42L151 42ZM112 43L151 43V91H112V43ZM111 42V5H77V42H111ZM77 43H111V91H77V43ZM76 42V5H43C42.4477 5 42 5.44772 42 6V42H76ZM42 43H76V91H42L42 43ZM41 92L41 42V6C41 4.89543 41.8954 4 43 4H76H111H152H187H220C221.105 4 222 4.89543 222 6V42V92V128C222 129.105 221.105 130 220 130H187H152H111H76H43C41.8954 130 41 129.105 41 128L41 92ZM221 91V43H187V91H221ZM187 92H221V128C221 128.552 220.552 129 220 129H187V92ZM186 92H152V129H186V92ZM151 92H112V129H151V92ZM111 92H77V129H111V92ZM76 92V129H43C42.4477 129 42 128.552 42 128V92H76Z" fill="url(#paint0_linear_9_10324)"/>
+<circle cx="109" cy="54" r="33.5" fill="#167399" stroke="#00C5FF" stroke-width="5"/>
+<circle cx="109" cy="54" r="28.5" fill="#167399" stroke="#0E5B7A" stroke-width="5"/>
+<circle cx="153" cy="73" r="33.5" fill="#167399" stroke="#00C5FF" stroke-width="5"/>
+<circle cx="153" cy="73" r="28.5" fill="#167399" stroke="#0E5B7A" stroke-width="5"/>
+<circle cx="128" cy="69" r="41.5" fill="#167399" stroke="#00C5FF" stroke-width="5"/>
+<circle cx="128" cy="69" r="36.5" fill="#167399" stroke="#0E5B7A" stroke-width="5"/>
+<defs>
+<linearGradient id="paint0_linear_9_10324" x1="40" y1="69" x2="222" y2="69" gradientUnits="userSpaceOnUse">
+<stop stop-color="#02274A" stop-opacity="0"/>
+<stop offset="0.149121" stop-color="#02274A"/>
+<stop offset="0.83182" stop-color="#02274A"/>
+<stop offset="1" stop-color="#02274A" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
